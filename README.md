@@ -151,18 +151,18 @@ countWords()
 
 ## 6a. Build a servlet program to find the factorial of a number using HTML with step by step procedure.
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab6/Fact_1.png)
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab6/Fact_2.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/Lab6/Fact_1%20(1).png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/Lab6/Fact_2%20(1).png)
 
 ## 6b. Build a servlet program to create a cookie to get your name through text box and press submit button( through HTML) to display the message by greeting Welcome back your name ! , you have visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab6/CookieDemo_1.jpeg)
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab6/CookieDemo_2.jpeg)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/Lab6/CookieDemo_1%20(1).jpeg)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/Lab6/CookieDemo_2%20(1).jpeg)
 
 ## 6c. Build a servlet program to check the given number is prime number or not using HTML with step by step procedure.
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab6/Prime.jpeg)
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab6/Prime_1.jpeg)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/Lab6/Prime%20(1).jpeg)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/Lab6/Prime_1%20(1).jpeg)
 
 
 ## 7a. Build a Session Management using JSP program set with one minute session expiry time to get your name through text box and press submit to display the message by greeting Hello your name!. Check the expiry of the session after one minute.
