@@ -1,27 +1,27 @@
 ## 1.a Develop a Java program for adding elements [Apple, Banana, Orange] into an ArrayList and a LinkedList to perform the following operations with different functions directed as follows
 Adding elements, 2. Adding element at specific index, 3. Adding multiple elements, 4. Accessing elements,5. Updating elements, 6. Removing elements, 7. Searching elements, 8. List size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. Clearing the list 
 
-[Output Sreenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/1a.Listinterface/ListInterfaceDemo.png)
+[Output Sreenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/1a.Listinterface/ListInterfaceDemo.png)
 ## 1b. Array List programs
 1.Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
 
-[Output Sreenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/1b.%20Array%20List%20programs/ColorSearch.png)
+[Output Sreenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/1b.%20Array%20List%20programs/ColorSearch%20(1).png)
 
 2.Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList 
 
-[Output Sreenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/1b.%20Array%20List%20programs/ColorRemoval.png)
+[Output Sreenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/1b.%20Array%20List%20programs/ColorRemoval.png)
 
 3.Write a java program for getting different colors through ArrayList interface and sort them using Collections.sort( ArrayListObj) 
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/1b.%20Array%20List%20programs/ColorSort.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/1b.%20Array%20List%20programs/ColorSort.png)
 
 4.Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object by using SubList()
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/1b.%20Array%20List%20programs/ColorSubList.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/1b.%20Array%20List%20programs/ColorSubList.png)
 
 5.Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index 
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/1b.%20Array%20List%20programs/ColorRemoveNt.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/1b.%20Array%20List%20programs/ColorRemoveNt.png)
 
 ## 1c. Linked List Programs
 1.Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1)) 
