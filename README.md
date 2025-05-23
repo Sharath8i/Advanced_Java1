@@ -178,21 +178,21 @@ countWords()
 
 ## 8a Q1. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8a_8b/addCoffee1..png)
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8a_8b/addCoffee.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/Lab8/8a_8b/addCoffee1..png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/Lab8/8a_8b/addCoffee.png)
 
 
 ## 8b. Read all the existing records from the table coffee which is from the database test and update an existing coffee product in the table with its id. [Create a table coffee with fields(id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8a_8b/update%20(2).png)
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8a_8b/update%20(1).png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/Lab8/8a_8b/update%20(2).png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/Lab8/8a_8b/update%20(1).png)
 
 
 ## 8c. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary into the table Emp of the database Employee by getting the fields through keyboard and Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
 
-[🔗 Output Screenshot 1](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8c_8d/insert.png) 
-[🔗 Output Screenshot 2](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8c_8d/insert1.png)
-[🔗 Output Screenshot 3](https://github.com/Sharath8i/Advanced_Java/blob/main/Lab8/8c_8d/insert2.png)
+[🔗 Output Screenshot 1](https://github.com/Sharath8i/Advanced_Java1/blob/main/Lab8/8c_8d/insert%20(1).png) 
+[🔗 Output Screenshot 2](https://github.com/Sharath8i/Advanced_Java1/blob/main/Lab8/8c_8d/insert1%20(1).png)
+[🔗 Output Screenshot 3](https://github.com/Sharath8i/Advanced_Java1/blob/main/Lab8/8c_8d/insert2%20(1).png)
 
 
 ## 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into the table Emp of the database Employee using HTML and JSP to get the fields and display the results respectively
