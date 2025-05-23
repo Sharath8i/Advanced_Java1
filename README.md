@@ -97,28 +97,28 @@ function removeWhitespace()
 Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords()
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/3c.%20String%20Exercise%20progams/StringCapitalizeWords.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/3c.%20String%20Exercise%20progams/StringCapitalizeWords.png)
 
 
 Q7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
 defined function truncate()
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/3c.%20String%20Exercise%20progams/StringTruncate.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/3c.%20String%20Exercise%20progams/StringTruncate.png)
 
 Q8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
 function isNumeric()
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/3c.%20String%20Exercise%20progams/StringIsNumeric.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/3c.%20String%20Exercise%20progams/StringIsNumeric.png)
 
 Q9. Write a Java Program for Creating a random string of a specified length using user defined
 function generateRandomString()
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/3c.%20String%20Exercise%20progams/StringRandomGenerator.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/3c.%20String%20Exercise%20progams/StringRandomGenerator.png)
 
 Q10. Write a Java Program for Counting the number of words in a string using user defined function
 countWords()
 
-[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java/blob/main/3c.%20String%20Exercise%20progams/StringWordCounter.png)
+[🔗 Output Screenshot](https://github.com/Sharath8i/Advanced_Java1/blob/main/3c.%20String%20Exercise%20progams/StringWordCounter.png)
 
 
 ## 4a. Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing Programming in Blue color plain font with font size of 32 using Jframe and Jlabel
